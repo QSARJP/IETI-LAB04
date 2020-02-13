@@ -1,7 +1,7 @@
 
 ![](img/react-material-heroku.png)
 
-<h1 align="center">1.3 Task Planner Project - Front End</h1>
+<h1 align="center">1.4 Task Planner Project - Front End - Part 2</h1>
 
 [![npm](https://img.shields.io/badge/npm-v6.13.4-red.svg)](https://www.npmjs.com/)
 [![npx](https://img.shields.io/badge/dependencies-npx-orange)](https://www.npmjs.com/package/npx)
