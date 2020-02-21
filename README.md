@@ -19,7 +19,7 @@ React project using Material-UI library.
 
  * Install npm the last version (currently 6.9.0)
  * Clone the repository 
-    https://github.com/QSARJP/IETI-LAB03.git
+    https://github.com/QSARJP/IETI-LAB04.git
     and go to the folder IETI-LAB1.
  * Type in the command prompt
     * npm i 
